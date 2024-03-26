@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "name": "eosrecusandae",
+  "author": "AprilErnser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KyleLittle/eosrecusandae.git"
+  },
+  "homepage": "https://github.com/KyleLittle/eosrecusandae.git",
+  "version": "1.0.0"
+}
